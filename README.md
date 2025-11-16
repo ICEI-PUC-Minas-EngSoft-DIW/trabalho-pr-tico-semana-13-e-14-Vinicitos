@@ -9,15 +9,16 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: 
+- Matricula: 
+- Proposta de projeto escolhida: 
+- Breve descrição sobre seu projeto: 
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Nesta etapa foi criada uma página dedicada ao dashboard de gráficos, utilizando o Chart.js para gerar visualizações intuitivas e modernas.
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
-
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![GraficosAntes.png](GraficosAntes.png)
+![CadastroCarta.png](CadastroCarta.png)
+![CadastroCartaResultado.png](CadastroCartaResultado.png)
+![GraficosDepois.png](GraficosDepois.png)
