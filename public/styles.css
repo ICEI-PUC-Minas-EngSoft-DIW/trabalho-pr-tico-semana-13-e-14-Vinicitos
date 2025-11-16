@@ -1,0 +1,21 @@
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
+}
+
+.slide-content {
+  flex-direction: column;
+  text-align: center;
+}
+
+@media (min-width: 768px ) {
+  .slide-content {
+    flex-direction: row;
+    text-align: left;
+  }
+}
+
+.slide-imagem {
+  max-width: 200px;
+  margin-bottom: 1rem;
+}
