@@ -9,10 +9,10 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome: 
-- Matricula: 
-- Proposta de projeto escolhida: 
-- Breve descrição sobre seu projeto: 
+- Nome: Vinicius do Amaral Fonseca Filho
+- Matricula: 789221
+- Proposta de projeto escolhida: (4) -  Coleções e Itens
+- Breve descrição sobre seu projeto: Meu projeto é uma visualizador de cartas de Magic The Gathering. Você adicona os filtros e ele mostra até 100 cartas naquele requisito. A API usada futuramento seria essa docs.magicthegathering.io
 
 **Print da tela com a implementação**
 
